@@ -1,0 +1,57 @@
+
+body {
+    background: linear-gradient(to right, #ff8c00, #ffc0cb); /* Example gradient background */
+
+    text-align: center;
+    background-image: url('https://images.template.net/92467/free-black-and-white-happy-birthday-background-76pgb.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+* {
+    padding: 0;
+}
+
+.show {
+    display: none;
+}
+
+h1{
+    font-size: 100px;
+    font-style: oblique;
+    color:rgba(78, 5, 44, 0.768);
+    text-shadow:  5px 5px black;
+    
+}
+p{
+    color:rgb(158, 86, 129);
+    font-size:40px;
+  font-style: oblique;
+}
+ h3 {
+    font-size: 90px;
+    font-style: italic;
+    color:rgba(110, 3, 60, 0.768);
+    text-shadow: 5px 5px black;
+}
+
+input {
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    background-color: beige;
+    border: 5px solid rgb(16, 16, 220);
+}
+
+button {
+    font-size: 60px;
+    background-color: gray;
+    border: 3px solid green;
+    font-weight: 400;
+}
+
+.ig {
+    height: 90%;
+    width: 100%;
+}
